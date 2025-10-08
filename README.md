@@ -17,4 +17,5 @@
 - 基本語序：SVO
 - 疑問標記：直述句後面加上?(為其中一種)
 ### 結果
-![生成範例](French/結果.png)
+![結果](https://github.com/user-attachments/assets/97404fd4-ed55-4720-839f-e4d8ea2e58e2)
+
