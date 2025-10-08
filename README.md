@@ -3,10 +3,10 @@
 經典老歌 Les Champs Elysées(https://smilewang25.pixnet.net/blog/post/310031116)
 ## 2.規則
 ### 音韻
-  #### 子音: b, c, d, f, g, h, l, m, n, p, q, r, s, t, v, x, z
-  #### 母音: a, e, i, o, u, à, é, ê
-  #### 音節結構: CV, VC, CVC, CVC, CCV, CVV, V
-  #### 有些常見的雙母音，但合起來是念一個音(這個請使用者自行輸入)
+1.子音: b, c, d, f, g, h, l, m, n, p, q, r, s, t, v, x, z
+2.母音: a, e, i, o, u, à, é, ê
+3.音節結構: CV, VC, CVC, CVC, CCV, CVV, V
+4.有些常見的雙母音，但合起來是念一個音(這個請使用者自行輸入)
 ### 構詞
   #### 複數標記: -s
   #### 否定標記: 前面加-ne 後面加-pas
